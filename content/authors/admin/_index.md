@@ -68,6 +68,8 @@ user_groups:
 - Visitors
 ---
 
-Mingyue Tang is a Master student in Computer Science at University of Southern Califonia, her research interests includes applied AI, data and graph mining, bio knowledge graph and network analysis. Currently she is working at USC/ISI Center of Knowledge Graph and doing research with Emory University Professor Carl Yang on graph generation field. 
+Mingyue Tang is a Master student in Computer Science at University of Southern Califonia, her research interests includes applied AI, data and graph mining, bio knowledge graph and network analysis. 
+
+Currently she is working at USC/ISI Center of Knowledge Graph and doing research with Emory University Professor Carl Yang on graph generation field. 
 
 She is actively looking for 2021 Fall PhD position in applied AI areas.
