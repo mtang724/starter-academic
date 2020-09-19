@@ -24,7 +24,7 @@ date_format = "Jan 2006"
   location = "Marina del rey, CA"
   date_start = "2020-08-24"
   date_end = ""
-  description = """
+  description = """"""
   Responsibilities include:
 
   * Continuing data harmonization work from Novartis intern, developing deliveries to Novartis Data Strategy
