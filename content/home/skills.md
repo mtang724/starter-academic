@@ -19,13 +19,13 @@ subtitle = ""
   icon_pack = "fab"
   name = "Python"
   description = "experienced"
-  
+
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics"
   description = "100%"  
-  
+
 [[feature]]
   icon = "camera-retro"
   icon_pack = "fas"
