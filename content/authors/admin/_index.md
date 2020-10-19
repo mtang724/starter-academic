@@ -18,12 +18,13 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include applied AI, data and graph mining, network analysis, bio-info knowledge graph.
+bio: My research interests include applied AI, distributed systems, data and graph mining, network analysis, bio-info knowledge graph.
 
 interests:
-- Graph Mining
 - Artificial Intelligence
-- Computational Linguistics
+- Graph Mining
+- Distributed Systems 
+- Intelligent IoT
 - Information Retrieval
 
 education:
